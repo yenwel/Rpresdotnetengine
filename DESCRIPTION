@@ -1,0 +1,12 @@
+Package: Rpresdotnetengine
+Type: Package
+Title: Provide dotnet repl engine for knitr
+Version: 0.1.0
+Author: Jan Vandepitte
+Maintainer: <jan.vandepitte@sirus.be>
+Description: Add csharp snippets to a Rpresentation
+License: MIT
+Encoding: UTF-8
+LazyData: true
+Imports: 
+    knitr
